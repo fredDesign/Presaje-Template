@@ -3817,7 +3817,7 @@ form.custom .custom.disabled {
 /* line 255, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section ul li.active > a {
   background: #fff;
-  color: #cc0000;
+  color: #c00;
 }
 /* line 260, ../sass/foundation/components/_top-bar.scss */
 .top-bar-section .has-form {
